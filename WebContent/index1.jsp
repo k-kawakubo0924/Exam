@@ -15,7 +15,7 @@
 
     <!-- 右コンテンツエリア -->
 <div class="content-container">
-<h1>メニュー</h1>
+<h1>メニューうんこ</h1>
 <ul class="menu-list">
 <li><a href="<c:url value='#'/>">学生管理</a></li>
 </ul>
